@@ -20,6 +20,7 @@ ul {
 position: fixed;
   top: 0;
   width: 100%;
+  border: 1px solid #FFFFFF;
 }
 li {
   float: right;
