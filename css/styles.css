@@ -26,7 +26,6 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   color: #66BFBF;
   font-weight: normal;
-  font-size: 2rem;
 }
 
 h3 {
@@ -204,7 +203,7 @@ a:hover {
 }
 .mountain-pic-sain-halper {
   height: 498px;
-  width: 551px;
+  width: 600px;
   margin: 0 auto;
   padding: 0 auto;
   
