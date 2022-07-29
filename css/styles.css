@@ -202,8 +202,9 @@ a:hover {
   font-size: 0.85rem;
 }
 .mountain-pic-sain-halper {
-  height: 600px;
-  width: 800px;
-  margin-bottom: 0;
-  padding-bottom: 0;
+  height: 400px;
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 auto;
+  
 }
