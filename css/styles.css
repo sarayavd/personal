@@ -11,6 +11,32 @@ body {
   font-family: 'Comic Neue', cursive;
   color: #40514E;
 }
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+li {
+  float: right;
+}
+.nav-link {
+   display: block;
+  padding: 8px;
+ background-color:#66BFBF;
+  text-decoration: none;
+  color: white;
+}
+li .nav-link:hover {
+  background-color: #EAF6F6;
+  color: #66BFBF;
+}
+
+
+
+
 .profile {
   margin-top: 50px;
   margin-bottom: 50px;
