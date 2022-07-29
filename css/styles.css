@@ -21,6 +21,8 @@ position: fixed;
   top: 0;
   width: 100%;
   border: 1px solid #FFFFFF;
+  border-left: none;
+  border-right: none;
    background-color:#66BFBF;
 }
 li {
