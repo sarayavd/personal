@@ -80,12 +80,19 @@ hr {
 }
 .hobbiespic {
    width: 25%;
-  hieght: 300px;
+  height: 200px;
   float: right;
   margin-right: 30px;
 }
 .travel-pic {
  width: 25%;
+  height:200px;
+  float: left;
+  margin-right: 30px;
+}
+.retail {
+ width: 25%;
+  height:200px;
   float: left;
   margin-right: 30px;
 }
@@ -122,12 +129,14 @@ a {
 .learningpic
 {
   width: 25%;
+  height: 200px;
   float: left;
   margin-right: 30px;
 }
 .ccs
 {
   width: 25%;
+  height: 200px;
   float: left;
   margin-right: 30px;
 }
