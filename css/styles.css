@@ -66,6 +66,8 @@ hr {
   position: absolute;
   right: 250px;
   top: 50px;
+  height: 150px;
+  width: 150px;
 }
 
 .profilepic
